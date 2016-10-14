@@ -6,6 +6,9 @@ I need to do it to be able to kkep track of the changes i do to my files in the 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+In the staging area there are the files that we add manually because of changes, to be commited to the repository.
+It ables you to only keep track of the files you consider, and then later do a single commit reflecting all the changes at once.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
