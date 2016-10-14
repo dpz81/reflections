@@ -26,6 +26,9 @@ that differ quite a bit on that meaning.
 
 How do the diagrams help you visualize the branch structure?
 
+They show all the derivate branches of the master branch in a clean visual way 
+that's followed easily than comparing the raw logs status.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
