@@ -37,3 +37,9 @@ keeping the history of all the commits that had been done on each of them.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+It's good that Git merges obvious changes that doesn't have conflict in an automatic way,
+also it's good that when there's a conflict it advices of it to be resolved by the 
+programmers. I guess it's a good choice to organize in a way that the situation of two 
+different people operating in the same file would be rare and ocassional, to not enter
+in those kind of conflicts.
