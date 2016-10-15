@@ -32,5 +32,8 @@ that's followed easily than comparing the raw logs status.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result is a new branch that merges all the changes did on both branches, 
+keeping the history of all the commits that had been done on each of them.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
